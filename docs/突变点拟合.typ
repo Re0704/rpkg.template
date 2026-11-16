@@ -1,6 +1,3 @@
-// 水文气象学课堂讲义。参考教师文档的字号、标题层级、公式和段落排版，内容独立编写。
-// 使用前先运行 scripts/ 中的两个 R 案例；图形读取 results/figures/。
-
 #let ink = rgb("#2C343A")
 #let heading-ink = rgb("#244650")
 #let quiet = rgb("#657177")
